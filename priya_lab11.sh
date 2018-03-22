@@ -17,7 +17,7 @@ else
 	fi
 fi
 
-:wq
+
 
 				
 					
